@@ -1,0 +1,7 @@
+pipecat-ai
+torch
+torchaudio
+soundfile
+aiohttp
+aiofiles
+websockets
